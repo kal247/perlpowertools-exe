@@ -1,0 +1,3 @@
+[submodule "PerlPowerTools"]
+	path = PerlPowerTools
+	url = https://github.com/briandfoy/PerlPowerTools
